@@ -1,37 +1,21 @@
 {
-    "books": [
+    "hotels": [
       {
-        "bookImg": "https://cdn.pixabay.com/photo/2015/07/27/20/16/book-863418__480.jpg",
-        "name": "book",
-        "author": "abhi",
-        "genre": "Tech",
-        "edition": "2022",
-        "publisher": "annu",
-        "price": "333",
-        "borrowed": "true",
-        "id": 3
-      },
+        "category": "Family",
+        "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+        "type_of_room": "AC",
+        "bed_type": "Double",
+        "no_of_persons": "2",
+        "capacity": "3",
+        "cost": "4000",
+        "booked":false
+      }
+    ],
+    "users": [
       {
-        "bookImg": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?w=2000",
-        "name": "New Book",
-        "author": "Random",
-        "genre": "Science",
-        "edition": "2020",
-        "publisher": "Joseph",
-        "price": "999",
-        "borrowed": "true",
-        "id": 4
-      },
-      {
-        "bookImg": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51fEgs6qgTL._SX324_BO1,204,203,200_.jpg",
-        "name": "The famous book",
-        "author": "Random",
-        "genre": "Science",
-        "edition": "2020",
-        "publisher": "Joseph",
-        "price": "897",
-        "borrowed": "false",
-        "id": 5
+        "name": "Himanku",
+        "email": "himanku@gmail.com",
+        "password": "Himanku"
       }
     ]
   }
